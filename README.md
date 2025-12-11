@@ -84,7 +84,6 @@ Các nhóm viết report và nộp với tên file là `<TenNhom>.pdf`.
 | **2. Chứng minh tính đúng đắn** | **2.0** | Chứng minh logic toán học hoặc lập luận chặt chẽ để khẳng định thuật toán luôn tìm ra kết quả tối ưu (nhỏ nhất theo từ điển). |
 | **3. Đánh giá độ phức tạp** | **1.5** | Phân tích chính xác độ phức tạp thời gian (Time Complexity) và không gian (Space Complexity). Đảm bảo thỏa mãn giới hạn $N \le 2000$. |
 | **4. Cài đặt (Implementation)** | **1.5** | Code sạch, đặt tên biến gợi nhớ, có comment giải thích các đoạn quan trọng. Code phải vượt qua các test case ví dụ. |
-| **5. Trình bày & Hình thức** | **2.0** | Báo cáo trình bày đẹp, bố cục khoa học, không sai lỗi chính tả. Sử dụng hình ảnh minh họa hoặc bảng biểu là một điểm cộng. |
 
 ---
 

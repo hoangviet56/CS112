@@ -93,7 +93,7 @@ Các nhóm viết report và nộp với tên file là `<TenNhom>.pdf`.
 
 $$\text{Final Score} = 0.7 \times (\text{Điểm bài tập về nhà}) + 0.3 \times (\text{Điểm báo cáo})$$
 
-* **Điểm bài tập về nhà:** Dựa trên số lượng test case vượt qua trên hệ thống chấm (nếu có) hoặc đánh giá code.
+* **Điểm bài tập về nhà:** Dựa trên tổng điểm tương ứng của các bài AC trên hệ thông chấm.
 * **Điểm báo cáo:** Dựa trên thang điểm 10 ở mục trên.
 
 ## Link nộp bài và Slide

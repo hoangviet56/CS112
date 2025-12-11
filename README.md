@@ -80,10 +80,10 @@ Các nhóm viết report và nộp với tên file là `<TenNhom>.pdf`.
 
 | Tiêu chí | Điểm | Mô tả chi tiết |
 |:---|:---:|:---|
-| **1. Phân tích & Ý tưởng thuật toán** | **3.0** | Trình bày rõ ràng luồng tư duy, cách tiếp cận bài toán. Giải thích được tại sao lại chọn giải pháp đó (Greedy, Dynamic Programming, v.v.). |
-| **2. Chứng minh tính đúng đắn** | **2.0** | Chứng minh logic toán học hoặc lập luận chặt chẽ để khẳng định thuật toán luôn tìm ra kết quả tối ưu (nhỏ nhất theo từ điển). |
-| **3. Đánh giá độ phức tạp** | **1.5** | Phân tích chính xác độ phức tạp thời gian (Time Complexity) và không gian (Space Complexity). Đảm bảo thỏa mãn giới hạn $N \le 2000$. |
-| **4. Cài đặt (Implementation)** | **1.5** | Code sạch, đặt tên biến gợi nhớ, có comment giải thích các đoạn quan trọng. Code phải vượt qua các test case ví dụ. |
+| **1. Phân tích & Ý tưởng thuật toán** | **3.5** | Trình bày rõ ràng luồng tư duy, cách tiếp cận bài toán. Giải thích được tại sao lại chọn giải pháp đó (Greedy, Dynamic Programming, v.v.). |
+| **2. Chứng minh tính đúng đắn** | **2.5** | Chứng minh logic toán học hoặc lập luận chặt chẽ để khẳng định thuật toán luôn tìm ra kết quả tối ưu (nhỏ nhất theo từ điển). |
+| **3. Đánh giá độ phức tạp** | **2.0** | Phân tích chính xác độ phức tạp thời gian (Time Complexity) và không gian (Space Complexity). Đảm bảo thỏa mãn giới hạn $N \le 2000$. |
+| **4. Cài đặt (Implementation)** | **2.0** | Code sạch, đặt tên biến gợi nhớ, có comment giải thích các đoạn quan trọng. Code phải vượt qua các test case ví dụ. |
 
 ---
 

@@ -99,7 +99,7 @@ $$\text{Final Score} = 0.7 \times (\text{Điểm bài tập về nhà}) + 0.3 \t
 ## Link nộp bài và Slide
 
 Link nộp bài:
-- Code: https://codeforces.com/contestInvitation/72ccca335b08bf52211685add1c9beae51e9ff5d
+- Code: https://codeforces.com/contestInvitation/44059d1dc61aac4e8a15572d98d0ffcdbddf6876
 - Report: https://docs.google.com/forms/d/e/1FAIpQLSdAbULvO2Tm82SM8435e-9OgoiThuWN1sTD6EpgP3j3JJ95tQ/viewform?usp=dialog
 
 Link Slide: https://www.canva.com/design/DAG6gmjjDo8/YAxMLtJzH9px9map2KuE_Q/edit?utm_content=DAG6gmjjDo8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
